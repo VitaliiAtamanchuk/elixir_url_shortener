@@ -1,3 +1,6 @@
+* GET localhost:4000/api/:token
+* POST localhost:4000/api/ -- {"item": {"url": ""}}
+
 # UrlShortener
 
 To start your Phoenix server:
